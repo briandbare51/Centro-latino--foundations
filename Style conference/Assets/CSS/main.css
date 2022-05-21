@@ -1,0 +1,45 @@
+    /*
+<header class= "container"> </header>
+    
+    <footer class= "container"> </footer>
+    
+    
+    <a class="btn, btn-alto"> </a>
+    *,
+   <section class= "hero container">
+    ...
+    </section>
+    *before,
+    *after,
+
+      -webkit-box-sizing: border-box;
+          moz-box-sizing: border-box;
+              box-sizing: border-box;
+    h1,h3,h4,h5, p {
+      margin-bottom: 22px;
+    }
+    <section class= "container" 
+    h1...h1
+    </section>
+ .hero{
+    padding: 22px 80px 66px 80px; 
+______________________________________________________________________________________________________
+grid
+___________________________________________________________________________________________________________ */
+*
+.container{
+  margin: 0 auto;
+  padding-left: 30pix;
+  padding-right: 30px;
+  width: 960px;
+}
+.btn{
+  border radius: 5px;
+  display: inline block;
+  margin: 0;
+}
+
+.btn-alt {
+  border: 1px solid #dfe2e5;
+  padding: 10 px 30px
+}
